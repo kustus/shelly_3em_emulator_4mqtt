@@ -1,0 +1,11 @@
+{
+  "config_flow": true,
+  "domain": "shelly_3em_emulator_4mqtt",
+  "name": "Shelly 3EM Emulator for MQTT input",
+  "version": "0.1.0",
+  "documentation": "https://github.com/kustus/shelly_3em_emulator_4mqtt",
+  "integration_type": "service",
+  "requirements": ["aiohttp"],
+  "codeowners": ["@kustus"],
+  "iot_class": "local_push"
+}
