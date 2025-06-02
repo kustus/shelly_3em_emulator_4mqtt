@@ -2,4 +2,4 @@
 
 Project ist still in progress...
 
-Goal ist to emulate an Shelly Pro 3m from existing data of a existing smart meter to provide data to other components like a Zendure Hapyer 2000 without installing a Shelly
+Goal ist to emulate an Shelly Pro 3m from existing data of a existing smart meter to provide data to other components like a Zendure Hyper 2000 without installing a Shelly
